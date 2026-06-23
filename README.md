@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Suyang Personal Branding
+個人品牌網站，用來展示作品集、技能與聯絡方式。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 功能
+- 作品集展示
+- 聯絡表單（EmailJS 收信）
+- RWD 響應式設計
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 技術
+- Vue 3 + Vite
+- CSS Flexbox
+- EmailJS
