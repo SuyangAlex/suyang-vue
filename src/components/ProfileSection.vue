@@ -3,8 +3,7 @@
             <div class="profile_text">
                 <p class="eng">Hello<br>I'm Suyang</p>
                 <p class="ch">
-                    畢業於臺灣大學 生物產業傳播暨發展學系<br>
-                    前端程式語言目前自學一年多，目標轉職前端工程師<br>
+                    前端程式語言目前自學一年多<br>
                     喜歡把美學和程式結合，打造一個又一個精美的網頁設計！
                 </p>
                 <div class="contact_resume">
